@@ -1,5 +1,5 @@
-# testes-automatizados-jasmine
-Estudo inicial em testes automatizados em códigos Javascript utilizando o framework Jasmine.
+# estudos-jasmine
+Estudos baseados no curso Curso [Jasmine: Testes automatizados em JavaScript](https://www.alura.com.br/curso-online-angular-testes-automatizados-jasmin-karma) da Alura.
 
 Framework de testes automatizados Jasmine
 
