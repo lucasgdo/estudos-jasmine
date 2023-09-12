@@ -1,5 +1,5 @@
 # estudos-jasmine
-Estudos baseados no curso Curso [Jasmine: Testes automatizados em JavaScript](https://www.alura.com.br/curso-online-angular-testes-automatizados-jasmin-karma) da Alura.
+Estudos baseados no curso [Jasmine: Testes automatizados em JavaScript](https://www.alura.com.br/curso-online-angular-testes-automatizados-jasmin-karma) da Alura.
 
 Framework de testes automatizados Jasmine
 
